@@ -1,6 +1,6 @@
 # Theme settings
 snet:
-    baseurl:
+    baseurl: smbss.github.io/dev-portal
     color_theme: blue
     header:
         logo:
